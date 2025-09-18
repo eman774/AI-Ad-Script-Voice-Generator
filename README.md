@@ -19,10 +19,10 @@ This project is an AI-powered tool that automatically generates short, engaging 
 
 ## 📸 Demo
 
-![App UI Demo](assets/demo-ui.png.jpg)
+![App UI Demo](assest/demo-ui.png.jpg)
 
 🎧 Listen to a sample output:  
-[🔊 Sample Voice Output (MP3)](assets/sample-voice.mp3)
+[🔊 Sample Voice Output (MP3)](assest/sample-voice.mp3)
 
 ---
 
